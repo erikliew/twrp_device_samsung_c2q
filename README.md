@@ -9,8 +9,8 @@ It was released in August 2020.
 | Chipset                 | Qualcomm SM8250 Snapdragon 865 5G+ (7 nm+)                                                                                     |
 | GPU                     | Mali-G77 MP11                                                                                                                  |
 | Memory                  | 12 GB RAM                                                                                                                      |
-| Shipped Android Version | 11.0 | 12.0                                                                                                                    |
-| Storage                 | 128 GB                                                                                                                         |
+| Shipped Android Version | 13.0                                                                                                                           |
+| Storage                 | 256 GB                                                                                                                         |
 | Battery                 | Non-removable Li-Ion 4500 mAh battery                                                                                          |
 | Display                 | Dynamic AMOLED 2X, 120Hz, HDR10+, 6.9 inches, 1440 x 3088 pixels (~496 ppi density)                                            |
 | Camera                  | 108MP + 12MP + 12MP + 10 MP                                                                                                    | 
